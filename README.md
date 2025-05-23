@@ -53,7 +53,6 @@ Emergency 911 services are crucial for public safety. This project analyzed **95
 - **Transformation:** Standardized datetime columns
 
 ### iii. Tools Used:
-- SQL (Trend Analysis)
 - Python (Data Processing)
 - Tableau (Visualization)
 
